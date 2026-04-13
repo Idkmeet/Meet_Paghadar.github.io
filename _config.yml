@@ -2,13 +2,18 @@
 # Site identity
 # -------------------------
 locale: "en-US"
-site_theme: "default"
+theme: "minimal-mistakes-jekyll"
 
 title: "Meet Paghadar | Data Science & ML Portfolio"
 title_separator: "-"
 name: "Meet Paghadar"
 description: "Portfolio showcasing projects in Data Science, Machine Learning, Data Visualization, and Analytics."
+minimal_mistakes_skin: "dark"   # try: default, dark, contrast, mint
 
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
 # -------------------------
 # GitHub Pages settings
 # -------------------------
