@@ -26,7 +26,7 @@ baseurl: ""
 
 # Must match the GitHub repository path exactly:
 # username/repository-name
-repository: "lijingzhu1/lijingzhu1.github.io"
+repository: "https://github.com/Idkmeet/Meet_Paghadar.github.io"
 
 # -------------------------
 # Author profile information
@@ -34,17 +34,17 @@ repository: "lijingzhu1/lijingzhu1.github.io"
 author:
   avatar: ""    # Profile image file shown in the sidebar/profile area
   name: "Meet"
-  bio: "Assistant professor at University of Houston-Clear Lake. Ph.D. in Data Science from Bowling Green State University. Research focus on machine learning and graph-based deep learning."
+  bio: "Data Science Student  at University of Houston-Clear Lake.."
   location: "TX"
   employer: "University of Houston-Clear Lake"
-  email: "zhul@uhcl.edu"
+  email: "meet@uhcl.edu"
 
   # Professional / academic links
   # Leave a field empty if it is not used.
-  googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
-  github: "lijingzhu1"
-  linkedin: "www.linkedin.com/in/lijingz-19970620"
-  orcid: "https://orcid.org/0009-0002-7107-2880"
+  # googlescholar: "https://scholar.google.com/citations?user=_c1ydPQAAAAJ&hl=en"
+  # github: "lijingzhu1"
+  # linkedin: "www.linkedin.com/in/lijingz-19970620"
+  # orcid: "https://orcid.org/0009-0002-7107-2880"
 
 # -------------------------
 # General behavior
