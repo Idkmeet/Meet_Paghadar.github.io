@@ -32,7 +32,7 @@ repository: "https://github.com/Idkmeet/Meet_Paghadar.github.io"
 # Author profile information
 # -------------------------
 author:
-  avatar: "images/WIN_20250720_15_34_10_Pro.jpg"    # Profile image file shown in the sidebar/profile area
+  avatar: "WIN_20250720_15_34_10_Pro.jpg"    # Profile image file shown in the sidebar/profile area
   name: "Meet"
   bio: "Data Science Student  at University of Houston-Clear Lake.."
   location: "TX"
